@@ -39,6 +39,17 @@ namespace DesignPattern
             TemplatePattern.TemplatePattern.Practice();
             VisitorPattern.VisitorPattern.Practice();
             #endregion
+
+            #region J2EE模式实践（C#实现）
+            MVCPattern.MVCPattern.Practice();
+            BusinessDelegatePattern.BusinessDelegatePattern.Practice();
+            CompositeEntityPattern.CompositeEntityPattern.Practice();
+            DataAccessObjectPattern.DataAccessObjectPattern.Practice();
+            FrontControllerPattern.FrontControllerPattern.Practice();
+            InterceptingFilterPattern.InterceptingFilterPattern.Practice();
+            ServiceLocatorPattern.ServiceLocatorPattern.Practice();
+            TransferObjectPattern.TransferObjectPattern.Practice();
+            #endregion
         }
     }
 }

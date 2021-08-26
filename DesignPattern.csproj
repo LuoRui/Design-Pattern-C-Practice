@@ -57,6 +57,14 @@
     <Compile Include="StrategyPattern.cs" />
     <Compile Include="TemplatePattern.cs" />
     <Compile Include="VisitorPattern.cs" />
+    <Compile Include="MVCPattern.cs" />
+    <Compile Include="BusinessDelegatePattern.cs" />
+    <Compile Include="CompositeEntityPattern.cs" />
+    <Compile Include="DataAccessObjectPattern.cs" />
+    <Compile Include="FrontControllerPattern.cs" />
+    <Compile Include="InterceptingFilterPattern.cs" />
+    <Compile Include="ServiceLocatorPattern.cs" />
+    <Compile Include="TransferObjectPattern.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

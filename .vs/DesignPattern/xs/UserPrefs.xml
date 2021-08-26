@@ -1,10 +1,21 @@
 ﻿<Properties StartupConfiguration="{9636310C-058E-42FB-9F2B-E674F006993C}|Default">
   <MonoDevelop.Ide.ItemProperties.DesignPattern PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ObserverPattern.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="35" Column="49" />
-      <File FileName="ObserverPattern.cs" Line="10" Column="28" />
+      <File FileName="Program.cs" Line="51" Column="35" />
+      <File FileName="TransferObjectPattern.cs" Line="4" Column="18" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DesignPattern" expanded="True">
+            <Node name="DesignPattern" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
