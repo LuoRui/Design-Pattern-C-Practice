@@ -1,23 +1,26 @@
 ﻿<Properties StartupConfiguration="{9636310C-058E-42FB-9F2B-E674F006993C}|Default">
   <MonoDevelop.Ide.ItemProperties.DesignPattern PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BuilderPattern.cs">
     <Files>
-      <File FileName="Program.cs" Line="51" Column="35" />
-      <File FileName="TransferObjectPattern.cs" Line="4" Column="18" />
+      <File FileName="Program.cs" Line="14" Column="50" />
+      <File FileName="BuilderPattern.cs" Line="187" Column="6" />
+      <File FileName="PrototypePattern.cs" Line="109" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="DesignPattern" expanded="True">
             <Node name="DesignPattern" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="BuilderPattern.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../../Documents/Workspace/Projects/Hotel1/Hotel1/Assets/Spine/Runtime/spine-unity/Utility/AttachmentCloneExtensions.cs" line="38" column="55" endLine="38" endColumn="79" offsetX="-1" offsetY="-1" expression="cloneMeshesAsLinked" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
