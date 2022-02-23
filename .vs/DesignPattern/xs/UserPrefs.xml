@@ -1,22 +1,10 @@
 ﻿<Properties StartupConfiguration="{9636310C-058E-42FB-9F2B-E674F006993C}|Default">
   <MonoDevelop.Ide.ItemProperties.DesignPattern PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="BuilderPattern.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FactoryPattern.cs">
     <Files>
-      <File FileName="Program.cs" Line="14" Column="50" />
-      <File FileName="BuilderPattern.cs" Line="187" Column="6" />
-      <File FileName="PrototypePattern.cs" Line="109" Column="10" />
+      <File FileName="Program.cs" Line="56" Column="1" />
+      <File FileName="FactoryPattern.cs" Line="9" Column="28" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="DesignPattern" expanded="True">
-            <Node name="DesignPattern" expanded="True">
-              <Node name="BuilderPattern.cs" selected="True" />
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches>
     <Watch file="../../../../../Documents/Workspace/Projects/Hotel1/Hotel1/Assets/Spine/Runtime/spine-unity/Utility/AttachmentCloneExtensions.cs" line="38" column="55" endLine="38" endColumn="79" offsetX="-1" offsetY="-1" expression="cloneMeshesAsLinked" liveUpdate="False" />
