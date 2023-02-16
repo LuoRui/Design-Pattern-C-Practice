@@ -13,7 +13,7 @@ namespace InterpreterPattern
             #region Step3 使用 Expression 类来创建规则，并解析它们
             IExpression isMale = GetMaleExpression();
             IExpression isMarriedWoman = GetMarriedWomanExpression();
-            Console.WriteLine($"Joho is male? {isMale.Interpret("John")}");
+            Console.WriteLine($"John is male? {isMale.Interpret("John")}");
             Console.WriteLine($"Julie is a marride women? {isMarriedWoman.Interpret("Marride Julie")}");
             #endregion
         }

@@ -48,7 +48,7 @@ namespace InterceptingFilterPattern
     }
     #endregion
 
-    #region Step3 创建Targe
+    #region Step3 创建Target
     public class Target
     {
         public void Execute(string request)
